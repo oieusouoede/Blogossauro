@@ -1,0 +1,19 @@
+{
+  "name": "blogossauro-api",
+  "version": "0.0.0",
+  "description": "Blog pessoal / Portfólio",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oieusouoede/Blogossauro.git"
+  },
+  "author": "Edgar Soares Marinho",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/oieusouoede/Blogossauro/issues"
+  },
+  "homepage": "https://github.com/oieusouoede/Blogossauro#readme"
+}
