@@ -1,0 +1,2 @@
+# Blogossauro
+Blog pessoal / Portfólio
